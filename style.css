@@ -1,0 +1,33 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #e6d9f5;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+main {
+    background-color: #ceb3ec;
+    padding-top: 1px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
+
+.basic-border {        
+    border: 3px solid #9B7EBD;  
+    text-align: center;      
+    border-radius: 20px;
+  }
+
+aside {
+    background-color: #ceb3ec;
+    border-radius: 20px;
+    padding: 5px;
+}
